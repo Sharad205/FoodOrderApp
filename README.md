@@ -1,3 +1,9 @@
+# Food_order_app
+
+## https://thefoodorderapp.firebaseapp.com/
+### Technology Used : ReactJs for frontend and firebase as a database.
+## You can open the link and check it out.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
